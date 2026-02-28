@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+polars
+numba
+optuna
+pydantic
+python-multipart
